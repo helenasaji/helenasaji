@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=6B21A8&height=120&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Science+%26+Analytics;Network+Architecture;BCA+Undergraduate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Data+Analytics;BCA+Student" alt="Typing SVG" />
 
 <br/>
 
@@ -33,17 +33,11 @@ I am a BCA Student
 
 ### ◦ Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,r,c,cpp,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,r,c,bash&theme=dark" />
 </a>
-
----
-, optimizing routing protocols, and calculating VLSM efficiently. |
-
----
-
-#, and population analyses. Corrected median distribution calculations to ensure absolute data fidelity.*
-</details>
-
+### Frontend
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" />
+</a>
 ---
 
 ## ✦ Achievements
