@@ -41,7 +41,7 @@ I am a BCA Student
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend" /></a>
 
 ### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=,git,github,linux&theme=dark" alt="DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="DevOps" /></a>
 
 </div>
 
