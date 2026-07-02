@@ -28,14 +28,7 @@
 
 ## ✦ About
 
-I am a software engineer and Bachelor of Computer Applications (BCA) undergraduate driven by a product engineering mindset and a commitment to algorithmic efficiency. My expertise lies in designing robust backend systems, conducting advanced statistical data visualization, and engineering highly optimized network architectures. 
-
-I specialize in building scalable applications using Java and Python, backed by a strong foundation in data structures (Binary Search Trees, Quicksort, Linked Lists) and discrete mathematics. Beyond traditional software development, I actively leverage R (dslabs, ggplot2) for deep data insights and maintain a deep technical focus on Cisco configurations, VLSM subnetting, and advanced routing protocols.
-
-**Open To:** Software Engineering Internships, Junior Backend Developer Roles, Data Science Opportunities, and Open Source Collaborations.
-
----
-
+I am a BCA Student
 ## ✦ Tech Stack
 
 ### ◦ Languages
@@ -43,102 +36,13 @@ I specialize in building scalable applications using Java and Python, backed by 
   <img src="https://skillicons.dev/icons?i=java,python,r,c,cpp,bash&theme=dark" />
 </a>
 
-### ◦ Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
-</a>
-
-### ◦ Backend & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis&theme=dark" />
-</a>
-
-### ◦ Cloud, DevOps & Tooling
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,postman&theme=dark" />
-</a>
+---
+, optimizing routing protocols, and calculating VLSM efficiently. |
 
 ---
 
-## ✦ AI / ML & Data Science Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Statistical Visualization** | Advanced | Leveraging `R`, `ggplot2`, and `dslabs` for deep analysis of histograms, boxplots, and complex density distributions. |
-| **Algorithmic Optimization** | Advanced | Implementation and time-complexity optimization of search/sort algorithms and advanced data structures. |
-| **Predictive Modeling** | Intermediate | Building foundational machine learning pipelines using Python and scikit-learn for data-driven insights. |
-| **Network Automation** | Intermediate | Scripting and configuring Cisco networks, optimizing routing protocols, and calculating VLSM efficiently. |
-
----
-
-## ✦ Featured Projects
-
-<details>
-  <summary><b>❖ Interactive Learning Platform for Children</b></summary>
-  <br/>
-  
-  An innovative, highly interactive web platform designed to go beyond traditional websites by incorporating dynamic storytelling and puzzle games tailored for early childhood education.
-  
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Java, JS | 5K+ Users | < 50ms Latency | OAuth 2.0 | Gamified UI | [Link](#) |
-  
-  *Engineered the core backend microservices utilizing Java, emphasizing clean, comment-free, production-ready code. Developed interactive front-end modules ensuring high-engagement gamification and seamless state management.*
+#, and population analyses. Corrected median distribution calculations to ensure absolute data fidelity.*
 </details>
-
-<details>
-  <summary><b>❖ Advanced Network Routing Configurator</b></summary>
-  <br/>
-  
-  A specialized toolset for automating and validating Cisco router and switch configurations, focusing on subnetting efficiency and protocol integrity.
-  
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Python, Bash | Enterprise | O(1) Lookups | SSH/TLS | Automated | [Link](#) |
-  
-  *Designed algorithms for automatic VLSM calculations and generated step-by-step configuration scripts. Reduced manual network layer setup time by abstracting complex routing protocol logic into a clean CLI tool.*
-</details>
-
-<details>
-  <summary><b>❖ High-Dimensional Data Visualizer</b></summary>
-  <br/>
-  
-  A data science dashboard that ingests large datasets and outputs highly detailed, presentation-ready statistical visualizations.
-  
-  | Stack | Scale | Performance | Security | Impact | Repository |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | R, ggplot2 | 10GB+ Data | Vectorized | Data Masking | Analytical | [Link](#) |
-  
-  *Utilized `dslabs` to source varied datasets, processing them through customized `ggplot2` pipelines to generate accurate histograms, density plots, and population analyses. Corrected median distribution calculations to ensure absolute data fidelity.*
-</details>
-
----
-
-## ✦ Experience
-
-### Software Engineering Intern
-**Tech Innovations Inc.**
-*June 2025 – Present*
-
-Architected and deployed scalable backend services, optimizing core data structures to reduce computational overhead in high-traffic endpoints.
-
-* Reduced API response times by 30% through the implementation of optimized Binary Search Trees and efficient sorting algorithms.
-* Maintained strict code-quality standards, delivering concise, scalable, and highly readable production code.
-* Collaborated closely with cross-functional teams to integrate gamified elements into user-facing platforms.
-
-`Java` `Python` `Data Structures` `API Development` `Git`
-
-### Cloud Infrastructure Trainee
-**Google Cloud Skills Boost Program**
-*March 2026 – Present*
-
-Engaged in intensive cloud architecture and deployment training, consistently achieving top-tier gamified learning milestones.
-
-* Engineered scalable virtual machine deployments and optimized cloud-native storage solutions.
-* Earned consecutive "Perfect Week" achievements by completing rigorous, hands-on infrastructure labs.
-* Monitored and analyzed network layer traffic to ensure seamless application deployment.
-
-`Google Cloud Platform` `Networking` `Linux` `DevOps`
 
 ---
 
