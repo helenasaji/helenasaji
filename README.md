@@ -124,18 +124,6 @@ yaml
 Current_Status:
   Learning:
     - "Advanced Statistical Data Visualization in R"
-    - "High-Performance Data Structures in Java"
-  Building:
-    - "Interactive Ed-Tech Platform for Children"
-    - "Automated VLSM & Cisco Routing Configurator"
-  Exploring:
-    - "Digital Portraiture Aesthetics & Stable Diffusion"
-    - "Misty Tea Plantation Landscapes of South India"
-  Open_To:
-    - "Enterprise Backend Engineering Roles"
-    - "Data Analysis & Algorithmic Design Projects"
-
-
 
 
 
