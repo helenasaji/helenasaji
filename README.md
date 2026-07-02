@@ -32,7 +32,7 @@ I am a BCA Student
 ## ✦ Tech Stack
 
 ### Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,r,c,cpp&theme=dark" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,r&theme=dark" alt="Languages" /></a>
 
 ### Frontend
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" /></a>
