@@ -95,8 +95,7 @@ I am a BCA Student
 
 ## ✦ GitHub Trophies
 
-<div align="center">
-<img src="./quick-draw-trophy.png" alt="GitHub Trophies" width="200" />
+<img src="./quick-draw-trophy.png" alt="GitHub Trophies" width="100" />
 
 
 
