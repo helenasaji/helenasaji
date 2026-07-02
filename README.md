@@ -232,4 +232,4 @@ Current_Status:
 
 
 
-![snake gif](https://github.com/helenasaji/helenasaji/blob/output/github-contribution-grid-snake.svg)
+
