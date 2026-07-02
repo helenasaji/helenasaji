@@ -38,10 +38,10 @@ I am a BCA Student
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" /></a>
 
 ### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb&theme=dark" alt="Backend" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend" /></a>
 
 ### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,bash&theme=dark" alt="DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=,git,github,linux&theme=dark" alt="DevOps" /></a>
 
 </div>
 
