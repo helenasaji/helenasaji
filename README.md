@@ -31,8 +31,6 @@
 I am a BCA Student
 ## ✦ Tech Stack
 
-<div align="center">
-
 ### Languages
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,r,c,cpp&theme=dark" alt="Languages" /></a>
 
