@@ -47,39 +47,6 @@ I am a BCA Student
 
 ---
 
-## ✦ Achievements
-
-| Recognition | Details |
-| :--- | :--- |
-| **Perfect Week Milestones** | Consistently achieved "Perfect Week" status on the Google Cloud Skills Boost dashboard for rigorous lab completions. |
-| **Digital Education Validation** | Successfully verified APAAR/ABC ID via DigiLocker, validating academic credentials and DEB ID on official portals. |
-| **Algorithmic Debugging Excellence** | Recognized for identifying and resolving complex logic errors in unique digit validation scores and asymptotic notation models. |
-
----
-
-## ✦ Certifications
-
-![Cisco](https://img.shields.io/badge/Cisco-Certified_Network_Associate-4C1D95?style=for-the-badge&logo=cisco&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills_Boost_Scholar-6B21A8?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-3B0764?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Java_Foundations-4C1D95?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data_Structures-6B21A8?style=for-the-badge&logo=bookmeter&logoColor=white)
-
----
-
-## ✦ Coding Profiles
-
-<div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Elite_Solver-0D1117?style=for-the-badge&logo=leetcode&logoColor=9333EA&borderColor=9333EA)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Premium_Coder-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=9333EA&borderColor=9333EA)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5_Star_Developer-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9333EA&borderColor=9333EA)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Advanced_Rank-0D1117?style=for-the-badge&logo=codechef&logoColor=9333EA&borderColor=9333EA)](https://codechef.com/)
-
-</div>
-
----
-
 ## ✦ GitHub Analytics
 
 <div align="center">
