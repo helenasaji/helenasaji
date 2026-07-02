@@ -96,7 +96,8 @@ I am a BCA Student
 ## ✦ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helenasaji&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15&title-text-color=A855F7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=helenasaji&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+
 </div>
 
 ---
