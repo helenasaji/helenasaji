@@ -19,7 +19,7 @@ jobs:
           github_user_name: helenasaji
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#E11D48&color_dots=#0D1117,#881337,#9F1239,#BE123C,#FB7185
       
       # The generated image will be available at:
       # https://raw.githubusercontent.com/helenasaji/helenasaji/output/github-contribution-grid-snake.svg
