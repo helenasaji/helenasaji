@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=BE123C&height=120&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Data+Analytics;BCA+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Data+Analytics;Exploring+Designing" alt="Typing SVG" />
 
 <br/>
 
-![Academic](https://img.shields.io/badge/Education-BCA-BE123C?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/Role-Data-analyst-BE123C?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-9F1239?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
