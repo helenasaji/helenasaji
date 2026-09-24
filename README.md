@@ -6,7 +6,7 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/Role-Data+analyst-BE123C?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/Role-Data_Analyst-BE123C?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-9F1239?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
