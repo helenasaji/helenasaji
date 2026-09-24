@@ -26,8 +26,7 @@
 ---
 
 ## ✦ About
-
-BCA Student
+Nothing
 ## ✦ Tech Stack
 
 ### Languages
