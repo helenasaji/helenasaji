@@ -28,7 +28,7 @@
 
 ## ✦ About
 
-I am a BCA Student
+BCA Student
 ## ✦ Tech Stack
 
 ### Languages
