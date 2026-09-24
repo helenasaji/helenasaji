@@ -67,14 +67,6 @@ BCA Student
 
 ---
 
-## ✦ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helenasaji&bg_color=0D1117&color=FB7185&line=E11D48&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
-
 ## ✦ Contribution Snake
 
 <div align="center">
