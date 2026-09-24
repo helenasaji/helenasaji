@@ -49,7 +49,7 @@ Nothing
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helenasaji&theme=tokyonight&hide_border=true&background=0D1117&ring=FB7185&fire=FDA4AF&currStreakNum=FB7185&sideNums=FB7185&currStreakLabel=FFE4E6&sideLabels=FFE4E6&dates=FECDD3" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helenasaji&theme=tokyonight&hide_border=true&background=0D1117&ring=FB7185&fire=FDA4AF&currStreakNum=BE123C&sideNums=FB7185&currStreakLabel=BE123C&sideLabels=FFE4E6&dates=FECDD3" />
 
 </div>
 
