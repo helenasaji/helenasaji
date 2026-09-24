@@ -12,7 +12,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E11D48&borderColor=E11D48)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E11D48&borderColor=E11D48)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E11D48&borderColor=E11D48)](mailto:helenasaji229@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E11D48&borderColor=E11D48)](https://github.com)
 
 <br/>
