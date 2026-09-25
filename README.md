@@ -25,41 +25,11 @@
 
 ---
 
-## ✦ About
-Nothing
-## ✦ Tech Stack
-
-### Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,r&theme=dark" alt="Languages" /></a>
-
-### Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" /></a>
-
-### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend" /></a>
-
-### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="DevOps" /></a>
-
-</div>
-
----
-
 ## ✦ GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helenasaji&theme=tokyonight&hide_border=true&background=0D1117&ring=BE123C&fire=FB7185&currStreakNum=FB7185&sideNums=ff8f0b&currStreakLabel=FB7185&sideLabels=ff8f0b&dates=ffcf00" />
-
-</div>
-
----
-
-## ✦ GitHub Trophies
-
-<img src="./quick-draw-trophy.png" alt="GitHub Trophies" width="100" />
-
-
 
 </div>
 
