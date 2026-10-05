@@ -32,7 +32,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenasaji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB7185&text_colorFFFFFF=&icon_color=FDA4AF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenasaji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB7185&text_color=FFFFFF&layout=compact" />
 <br/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helenasaji&theme=tokyonight&hide_border=true&background=0D1117&ring=FB7185&fire=FDA4AF&currStreakNum=FB7185&sideNums=FB7185&currStreakLabel=FFE4E6&sideLabels=FFE4E6&dates=FECDD3" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helenasaji&theme=tokyonight&hide_border=true&background=0D1117&ring=BE123C&fire=FB7185&currStreakNum=FB7185&sideNums=ff8f0b&currStreakLabel=FB7185&sideLabels=ff8f0b&dates=ffcf00" />
 
 </div>
 
