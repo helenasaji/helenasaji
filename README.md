@@ -28,9 +28,6 @@
 ## ✦ GitHub Analytics
 
 <div align="center">
-## ✦ GitHub Analytics
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenasaji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenasaji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&layout=compact" />
