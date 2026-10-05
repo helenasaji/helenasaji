@@ -28,6 +28,13 @@
 ## ✦ GitHub Analytics
 
 <div align="center">
+## ✦ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenasaji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenasaji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&layout=compact" />
+<br/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helenasaji&theme=tokyonight&hide_border=true&background=0D1117&ring=BE123C&fire=FB7185&currStreakNum=FB7185&sideNums=ff8f0b&currStreakLabel=FB7185&sideLabels=ff8f0b&dates=ffcf00" />
 
